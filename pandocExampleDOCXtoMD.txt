@@ -1,0 +1,1 @@
+pandoc -f docx -t markdown "Outline.docx" > "Outline.md"
